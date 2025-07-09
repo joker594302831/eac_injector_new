@@ -10,3 +10,5 @@ Note: My GitHub account had been suspended for quite a while, but it’s finally
 进展：经过几天时间的研究，我现在已经可以成功对游戏进行注入。特别分享一下注入过程和效果，有兴趣的朋友欢迎交流探讨。
 
 补充：我的 GitHub 账号挂起了很长一段时间，今天终于可以正常使用了。
+
+https://github.com/joker594302831/eac_injector_new/blob/master/example.mp4
