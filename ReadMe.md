@@ -11,4 +11,6 @@ Note: My GitHub account had been suspended for quite a while, but it’s finally
 
 补充：我的 GitHub 账号挂起了很长一段时间，今天终于可以正常使用了。
 
+https://github.com/user-attachments/assets/f6999759-d727-4749-bb11-0ab6c69e2e7d
+
 https://github.com/joker594302831/eac_injector_new/blob/master/example.mp4
